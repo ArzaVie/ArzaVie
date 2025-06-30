@@ -1,7 +1,7 @@
 Hi 👋 My name is Arzza Munabim
 ==============================
 
-Front-end Developer Junior
+Junior Front-end Developer 
 --------------------------
 
 * 🌍  I'm based in Jakarta, Indonesia
