@@ -4,10 +4,6 @@ Hi 👋 My name is Arzza Munabim
 Junior Front-end Developer 
 --------------------------
 
-<div align="center">
-  <img height="" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVrZ3g5dmZ4ZzNieHhvMTlma3FicWtzM3QwODhwbTl5aHk1MHoxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hld1RfHBeQDmM/giphy.gif](https://motionbgs.com/eclipse-over-silent-falls)"  />
-</div>
-
 * 🌍  I'm based in Jakarta, Indonesia
 
 ### Skills
