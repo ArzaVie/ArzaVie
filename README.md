@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋 Iam Arzza Munabim</h1>
-==============================
-
 <h3 align ="center">Junior Front-end Developer </h3>
---------------------------
 
 
 * 🌍  I'm based in Jakarta, Indonesia
