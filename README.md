@@ -1,7 +1,7 @@
-Hi 👋 My name is Arzza Munabim
+<h1 align="center">Hi 👋 Iam Arzza Munabim</h1>
 ==============================
 
-Junior Front-end Developer 
+<h3 align ="center">Junior Front-end Developer </h3>
 --------------------------
 
 
